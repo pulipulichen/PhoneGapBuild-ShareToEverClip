@@ -3,7 +3,7 @@ var FILTER_SUBJECT = [
 ];
 
 intent_handler = function (intent) {
-    alert("換了 可以嗎？");
+    //alert("換了 可以嗎？");
     //alert(JSON.stringify(intent));
     if (typeof (intent.action) === "string"
             && intent.action === "android.intent.action.MAIN") {
