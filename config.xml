@@ -8,7 +8,7 @@ PhoneGap Build Configuration
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="pgb-share-to-everclip.pulipuli.info" version="1.0.0">
     
-    <name>EverClip ⤶</name>
+    <name>EverClip ➡</name>
     <description>
         An Android APP for sharing to EverClip.
     </description>
