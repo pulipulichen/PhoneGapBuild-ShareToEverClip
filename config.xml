@@ -8,7 +8,7 @@ PhoneGap Build Configuration
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="pgb-share-to-everclip.pulipuli.info" version="1.0.0">
     
-    <name>EverClip+</name>
+    <name>EverClip ⤶</name>
     <description>
         An Android APP for sharing to EverClip.
     </description>
@@ -55,7 +55,7 @@ PhoneGap Build Configuration
             <activity android:theme="@android:style/Theme.Translucent" android:excludeFromRecents="true"></activity>
         </edit-config>
         <config-file target="AndroidManifest.xml" parent="/manifest/application/activity">
-            <intent-filter android:label="EverClip+">
+            <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <action android:name="android.intent.action.SEND"/>
                 <category android:name="android.intent.category.DEFAULT"/>
